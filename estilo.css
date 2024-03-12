@@ -1,9 +1,10 @@
-body (
-    height: 100vh;
-    width: 100vw::after
-    background-color:#1E1E1E
-    background: linearGradient (0deg, rgba(2,6,36,1) 0%, rgba)
-)
-.teste1(
-    display:flex;
-)
+@import url(https://fonts.google.com/specimen/Truculenta);
+
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    font-style: normal;
+    
+
+}
